@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Example One</string>
+    <string name="type_something">type something...</string>
+    <string name="change">更改</string>
+    <string name="redirect">跳转</string>
+    <string name="sec_activity">第二个activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_button">下一个</string>
+    <string name="one">TEXT1</string>
+    <string name="two">TEXT2</string>
+    <string name="three">TEXT3</string>
+    <string name="name">android</string>
+</resources>
